@@ -1,6 +1,19 @@
 # C3-Macropad
 A ESP32-C3 based macropad which has 4 mechanical keys and a 128x64 oled
 
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **10% Complete**
+
+- [x] GitHub repository created
+- [x] README written
+- [ ] Schematic design in KiCad
+- [ ] PCB layout
+- [ ] Firmware development
+- [ ] PC companion app
+- [ ] 3D printed case
+- [ ] Testing and debugging
+- [ ] Documentation
+- [ ] Submit to Stardance
+
 Features:
 - 4 programmable Cherry MX mechanical switches
 - 0.91" OLED display (SSD1306, I2C)
